@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit
+# https://docs.streamlit.io/library/advanced-features/configuration#hide-source-code-in-github
+
+.streamlit/
